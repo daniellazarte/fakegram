@@ -1,7 +1,7 @@
 <div class="Footer">
     <div class="Footer-container">
         <div class="Footer-copy">
-            @2020 Pugstagram from daniellazarte
+            @2020 Fakestagramtagram develop with love from Peru. @daniellazarte
         </div>
     </div>
 </div>
